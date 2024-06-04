@@ -8,4 +8,5 @@ Durante esta gestión se nos pide adaptar nuestras tareas pendientes a la implem
 - José Luis Fernández (@joselugaspar)
 - Juan Soriano (@JuanSoM)
 
+## Resultado del tablero
 <img width="1434" alt="Screenshot 2024-06-04 at 22 39 13" src="https://github.com/ProyectoHealthCalc/proyecto/assets/131762623/381bc82e-3a18-4f67-91fb-343fcc94cede">
